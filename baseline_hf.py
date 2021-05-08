@@ -304,8 +304,8 @@ def main():
 
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 
-    max_input_length = args.max_source_length
-    max_target_length = args.max_target_length
+    max_input_length = data_args.max_source_length
+    max_target_length = data_args.max_target_length
     source_lang = "en"
     target_lang = "fr"
 
