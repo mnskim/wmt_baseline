@@ -1,0 +1,608 @@
+1	en	fr	 contagious 	 contagieux 
+2	en	fr	 active cases 	 cas actifs 
+3	en	fr	 confirmed cases 	 cas confirmés 
+4	en	fr	 CDC 	 CDC 
+5	en	fr	 COVID-19 testing center 	 centre de dépistage du COVID-19 
+6	en	fr	 Coronavirus 	 coronavirus 
+7	en	fr	 face mask 	 masque 
+8	en	fr	 face mask 	 masque facial 
+9	en	fr	 healthcare provider 	 prestataire de santé 
+10	en	fr	 healthcare professional 	 professionnel de santé 
+11	en	fr	 hand-washing 	 lavage des mains 
+12	en	fr	 incubation period 	 période d'incubation 
+13	en	fr	 isolation 	 isolement 
+14	en	fr	 isolation 	 isolation 
+15	en	fr	 quarantine 	 mise en quarantaine 
+16	en	fr	 quarantine 	 placer en quarantaine 
+17	en	fr	 quarantine 	 quarantaine 
+18	en	fr	 NIH 	 NIH 
+19	en	fr	 close contact 	 contact rapproché 
+20	en	fr	 transmission 	 transmission 
+21	en	fr	 deaths 	 décès 
+22	en	fr	 testing center 	 centre de dépistage 
+23	en	fr	 spread 	 propagation 
+24	en	fr	 spread 	 propagé 
+25	en	fr	 Do the Five 	 "5 gestes" "barrière" "" 
+26	en	fr	 World Health Organization 	 Organisation mondiale de la Santé 
+27	en	fr	 World Health Organization 	 Organisation Mondiale de la Santé 
+28	en	fr	 WHO 	 OMS 
+29	en	fr	 14 days in isolation 	 14 jours d'isolement 
+30	en	fr	 14 days quarantine 	 quarantaine de 14 jours 
+31	en	fr	 2019 Coronavirus 	 coronavirus 2019 
+32	en	fr	 2019 novel Coronavirus 	 nouveau coronavirus de 2019 
+33	en	fr	 2019-nCoV 	 2019-nCoV 
+34	en	fr	 2020 Coronavirus 	 coronavirus 2020 
+35	en	fr	 2020 novel Coronavirus 	 nouveau coronavirus de 2020 
+36	en	fr	 about Coronavirus 	 à propos du coronavirus 
+37	en	fr	 acute respiratory distress syndrome 	 syndrome de détresse respiratoire aiguë 
+38	en	fr	 advanced hand sanitizer 	 gel hydroalcoolique avancé 
+39	en	fr	 affected by Coronavirus 	 affecté par le coronavirus 
+40	en	fr	 after exposure 	 après l'exposition 
+41	en	fr	 after the epidemic 	 après l'épidémie 
+42	en	fr	 after the outbreak 	 après l'épidémie 
+43	en	fr	 airborne virus 	 virus transmissible par l'air 
+44	en	fr	 alcohol based hand sanitizer 	 gel hydroalcoolique à base d'alcool 
+45	en	fr	 alcohol hand sanitizer 	 gel hydroalcoolique à base d'alcool 
+46	en	fr	 alcohol-based hand sanitizer 	 gel hydroalcoolique à base d'alcool 
+47	en	fr	 alcohol-based hand sanitizer 	 désinfectant pour les mains à base d'alcool 
+48	en	fr	 Anti-Corona virus spray 	 spray anti-coronavirus 
+49	en	fr	 antibacterial hand sanitizer 	 gel hydroalcoolique antibactérien 
+50	en	fr	 ARDS 	 SDRA 
+51	en	fr	 avoid exposure 	 éviter l'exposition 
+52	en	fr	 be infected 	 être infecté 
+53	en	fr	 beware of Coronavirus 	 attention au coronavirus 
+54	en	fr	 bilateral interstitial pneumonia 	 pneumonie interstitielle bilatérale 
+55	en	fr	 Center for Disease Control 	 Centre de contrôle des maladies 
+56	en	fr	 community spread 	 propagation communautaire 
+57	en	fr	 compulsory quarantine 	 quarantaine obligatoire 
+58	en	fr	 Coronavirus (COVID-19) 	 coronavirus (COVID-19) 
+59	en	fr	 Coronavirus alert 	 alerte au coronavirus 
+60	en	fr	 Coronavirus cases 	 cas de coronavirus 
+61	en	fr	 Coronavirus concerns 	 inquiétudes concernant le coronavirus 
+62	en	fr	 Coronavirus crisis 	 crise du coronavirus 
+63	en	fr	 Coronavirus disease 	 maladie du coronavirus 
+64	en	fr	 Coronavirus disease (COVID-19) outbreak 	 épidémie de la maladie du coronavirus (COVID-19) 
+65	en	fr	 Coronavirus early symptoms 	 symptômes précoces de coronavirus 
+66	en	fr	 Coronavirus epidemic 	 épidémie de coronavirus 
+67	en	fr	 Coronavirus exposure 	 exposition au coronavirus 
+68	en	fr	 Coronavirus incubation 	 incubation du coronavirus 
+69	en	fr	 Coronavirus incubation period 	 période d'incubation du coronavirus 
+70	en	fr	 Coronavirus infection 	 infection par coronavirus 
+71	en	fr	 Coronavirus map 	 carte du coronavirus 
+72	en	fr	 Coronavirus medicine 	 médicament contre le coronavirus 
+73	en	fr	 Coronavirus medicines 	 médicaments contre le coronavirus 
+74	en	fr	 Coronavirus news 	 actualités du coronavirus 
+75	en	fr	 Coronavirus outbreak 	 épidémie de coronavirus 
+76	en	fr	 Coronavirus pandemic 	 pandémie de coronavirus 
+77	en	fr	 Coronavirus pneumonia 	 pneumonie liée au coronavirus 
+78	en	fr	 Coronavirus precautions 	 précautions face au coronavirus 
+79	en	fr	 Coronavirus prevention 	 prévention du coronavirus 
+80	en	fr	 Coronavirus protection 	 protection contre le coronavirus 
+81	en	fr	 Coronavirus quarantine 	 quarantaine face au coronavirus 
+82	en	fr	 Coronavirus SOS Alert 	 alerte SOS au coronavirus 
+83	en	fr	 Coronavirus spread 	 propagation du coronavirus 
+84	en	fr	 Coronavirus symptoms 	 symptômes du coronavirus 
+85	en	fr	 Coronavirus transmission 	 transmission du coronavirus 
+86	en	fr	 Coronavirus travel ban 	 interdiction de voyager dans le contexte du coronavirus 
+87	en	fr	 Coronavirus travel restrictions 	 restrictions de voyage dans le contexte du coronavirus 
+88	en	fr	 Coronavirus treatment 	 traitement du coronavirus 
+89	en	fr	 Coronavirus update 	 mise à jour sur le coronavirus 
+90	en	fr	 Coronavirus vaccine 	 vaccin contre le coronavirus 
+91	en	fr	 Coronavirus vaccines 	 vaccins contre le coronavirus 
+92	en	fr	 covid cases 	 cas de covid 
+93	en	fr	 covid early symptoms 	 symptômes précoces du covid 
+94	en	fr	 covid incubation period 	 période d'incubation du covid 
+95	en	fr	 covid international spread 	 propagation à l'international du covid 
+96	en	fr	 covid international travel 	 voyage à l'international dans le contexte du covid 
+97	en	fr	 covid isolation 	 isolement lié au covid 
+98	en	fr	 covid map 	 carte du covid 
+99	en	fr	 covid medicine 	 médicament contre le covid 
+100	en	fr	 covid medicines 	 médicaments contre le covid 
+101	en	fr	 covid news 	 actualités du covid 
+102	en	fr	 covid outbreak 	 épidémie de covid 
+103	en	fr	 covid pandemic 	 pandémie de covid 
+104	en	fr	 covid panic 	 panique liée au covid 
+105	en	fr	 covid SOS Alert 	 alerte SOS au covid 
+106	en	fr	 covid symptoms 	 symptômes du covid 
+107	en	fr	 covid transmission 	 transmission du covid 
+108	en	fr	 covid travel ban 	 interdiction de voyager dans le contexte du covid 
+109	en	fr	 covid travel restrictions 	 restrictions de voyage dans le contexte du covid 
+110	en	fr	 covid treatment 	 traitement du covid 
+111	en	fr	 covid vaccine 	 vaccin contre le covid 
+112	en	fr	 covid vaccines 	 vaccins contre le covid 
+113	en	fr	 covid-19 	 covid-19 
+114	en	fr	 covid-19 alert 	 alerte au covid-19 
+115	en	fr	 covid-19 cases 	 cas de covid-19 
+116	en	fr	 covid-19 CDC 	 CDC et covid-19 
+117	en	fr	 covid-19 contagious 	 covid-19 contagieux 
+118	en	fr	 covid-19 cure 	 remède contre le covid-19 
+119	en	fr	 covid-19 dangerous 	 covid-19 dangereux 
+120	en	fr	 covid-19 deadly 	 covid-19 mortel 
+121	en	fr	 covid-19 death 	 mort du covid-19 
+122	en	fr	 covid-19 deaths 	 morts du covid-19 
+123	en	fr	 covid-19 domestic travel 	 voyage intérieur dans le contexte du covid-19 
+124	en	fr	 covid-19 early symptoms 	 symptômes précoces du covid-19 
+125	en	fr	 covid-19 effects 	 effets du covid-19 
+126	en	fr	 covid-19 epidemic 	 épidémie de covid-19 
+127	en	fr	 covid-19 exposure 	 exposition au covid-19 
+128	en	fr	 covid-19 fatal 	 covid-19 fatal 
+129	en	fr	 covid-19 fever 	 fièvre liée au covid-19 
+130	en	fr	 covid-19 illness 	 maladie liée au covid-19 
+131	en	fr	 covid-19 incubation 	 incubation du covid-19 
+132	en	fr	 covid-19 incubation period 	 période d'incubation du covid-19 
+133	en	fr	 covid-19 infection 	 infection par covid-19 
+134	en	fr	 covid-19 international spread 	 propagation à l'international du covid-19 
+135	en	fr	 covid-19 international travel 	 voyage à l'international dans le contexte du covid-19 
+136	en	fr	 covid-19 isolation 	 isolement lié au covid-19 
+137	en	fr	 covid-19 lockdown 	 confinement lié au covid-19 
+138	en	fr	 covid-19 map 	 carte du covid-19 
+139	en	fr	 covid-19 medicine 	 médicament contre le covid-19 
+140	en	fr	 covid-19 medicines 	 médicaments contre le covid-19 
+141	en	fr	 covid-19 news 	 actualités du covid-19 
+142	en	fr	 covid-19 outbreak 	 épidémie de covid-19 
+143	en	fr	 covid-19 pandemic 	 pandémie de covid-19 
+144	en	fr	 covid-19 panic 	 panique liée au covid-19 
+145	en	fr	 covid-19 precautions 	 précautions face au covid-19 
+146	en	fr	 covid-19 protection 	 protection contre le covid-19 
+147	en	fr	 covid-19 quarantine 	 quarantaine face au covid-19 
+148	en	fr	 covid-19 SOS Alert 	 alerte SOS au covid-19 
+149	en	fr	 covid-19 spread 	 propagation du covid-19 
+150	en	fr	 covid-19 symptoms 	 symptômes du covid-19 
+151	en	fr	 covid-19 transmission 	 transmission du covid-19 
+152	en	fr	 covid-19 travel ban 	 interdiction de voyager dans le contexte du covid-19 
+153	en	fr	 covid-19 travel restrictions 	 restrictions de voyage dans le contexte du covid-19 
+154	en	fr	 covid-19 treatment 	 traitement du covid-19 
+155	en	fr	 covid-19 uncontrolled spread 	 propagation incontrôlée du covid-19 
+156	en	fr	 covid-19 vaccine 	 vaccin contre le covid-19 
+157	en	fr	 covid-19 vaccines 	 vaccins contre le covid-19 
+158	en	fr	 COVID-19 virus 	 virus du COVID-19 
+159	en	fr	 covid-19 virus outbreak 	 foyer du virus covid-19 
+160	en	fr	 covid-19 virus transmission 	 transmission du virus du covid-19 
+161	en	fr	 covid-19 WHO 	 OMS et covid-19 
+162	en	fr	 covid19 	 covid19 
+163	en	fr	 covid19 alert 	 alerte au covid19 
+164	en	fr	 covid19 cases 	 cas de covid19 
+165	en	fr	 covid19 CDC 	 CDC et covid19 
+166	en	fr	 covid19 deaths 	 morts du covid19 
+167	en	fr	 covid19 domestic travel 	 voyage intérieur dans le contexte du covid19 
+168	en	fr	 covid19 effects 	 effets du covid19 
+169	en	fr	 covid19 epidemic 	 épidémie de covid19 
+170	en	fr	 covid19 exposure 	 exposition au covid19 
+171	en	fr	 covid19 fatal 	 covid19 fatal 
+172	en	fr	 covid19 fever 	 fièvre liée au covid19 
+173	en	fr	 covid19 illness 	 maladie liée au covid19 
+174	en	fr	 covid19 incubation 	 incubation du covid19 
+175	en	fr	 covid19 incubation period 	 période d'incubation du covid19 
+176	en	fr	 covid19 infection 	 infection par covid19 
+177	en	fr	 covid19 international spread 	 propagation à l'international du covid-19 
+178	en	fr	 covid19 international travel 	 voyage à l'international dans le contexte du covid19 
+179	en	fr	 covid19 isolation 	 isolement lié au covid19 
+180	en	fr	 covid19 lockdown 	 confinement lié au covid19 
+181	en	fr	 covid19 map 	 carte du covid19 
+182	en	fr	 covid19 medicine 	 médicament contre le covid19 
+183	en	fr	 covid19 medicines 	 médicaments contre le covid19 
+184	en	fr	 covid19 news 	 actualités du covid19 
+185	en	fr	 covid19 outbreak 	 épidémie de covid19 
+186	en	fr	 covid19 pandemic 	 pandémie de covid19 
+187	en	fr	 covid19 precautions 	 précautions face au covid19 
+188	en	fr	 covid19 protection 	 protection contre le covid19 
+189	en	fr	 covid19 quarantine 	 quarantaine face au covid19 
+190	en	fr	 covid19 SOS Alert 	 alerte SOS au covid19 
+191	en	fr	 covid19 spread 	 propagation du covid19 
+192	en	fr	 covid19 symptoms 	 symptômes du covid19 
+193	en	fr	 covid19 transmission 	 transmission du covid19 
+194	en	fr	 covid19 travel ban 	 interdiction de voyager dans le contexte du covid19 
+195	en	fr	 covid19 travel restrictions 	 restrictions de voyage dans le contexte du covid19 
+196	en	fr	 covid19 treatment 	 traitement du covid19 
+197	en	fr	 covid19 vaccine 	 vaccin contre le covid19 
+198	en	fr	 covid19 vaccines 	 vaccins contre le covid19 
+199	en	fr	 covid19 virus 	 virus du covid19 
+200	en	fr	 covid19 virus outbreak 	 foyer du virus covid19 
+201	en	fr	 covid19 virus transmission 	 transmission du virus covid19 
+202	en	fr	 current outbreak 	 épidémie actuelle 
+203	en	fr	 deadly outbreak 	 épidémie mortelle 
+204	en	fr	 disease outbreak 	 apparition de maladie 
+205	en	fr	 disease outbreak 	 épidémie 
+206	en	fr	 disposable hand sanitizer 	 gel hydroalcoolique jetable 
+207	en	fr	 domestic travel 	 voyage intérieur 
+208	en	fr	 droplets 	 gouttelettes 
+209	en	fr	 effects of Coronavirus 	 effets du coronavirus 
+210	en	fr	 epidemic 	 épidémie 
+211	en	fr	 epidemic and pandemic 	 épidémie et pandémie 
+212	en	fr	 epidemic disease 	 maladie épidémique 
+213	en	fr	 epidemic outbreak 	 foyer épidémique 
+214	en	fr	 epidemic period 	 période épidémique 
+215	en	fr	 epidemic prevention 	 prévention épidémique 
+216	en	fr	 epidemic season 	 saison épidémique 
+217	en	fr	 epidemic situation 	 situation épidémique 
+218	en	fr	 exposure 	 exposition 
+219	en	fr	 exposure time 	 délai d'exposition 
+220	en	fr	 fever 	 fièvre 
+221	en	fr	 fight the virus 	 combattre le virus 
+222	en	fr	 fighting the outbreak 	 combattre l'épidémie 
+223	en	fr	 flu epidemic 	 épidémie de grippe 
+224	en	fr	 fomites 	 fomite 
+225	en	fr	 global health emergency 	 urgence sanitaire mondiale 
+226	en	fr	 global outbreak 	 épidémie mondiale 
+227	en	fr	 global pandemic 	 pandémie mondiale 
+228	en	fr	 hand sanitizer 	 gel hydroalcoolique 
+229	en	fr	 hand sanitizer 	 désinfectant pour les mains 
+230	en	fr	 hand sanitizer dispenser 	 distributeur de gel hydroalcoolique 
+231	en	fr	 hand sanitizer gel 	 gel hydroalcoolique 
+232	en	fr	 hand sanitizer spray 	 spray désinfectant pour les mains 
+233	en	fr	 Hepatitis B virus 	 virus de l'hépatite B 
+234	en	fr	 herpes simplex virus 	 virus herpes simplex 
+235	en	fr	 home isolation 	 isolement à domicile 
+236	en	fr	 home quarantine 	 quarantaine à domicile 
+237	en	fr	 illness 	 maladie 
+238	en	fr	 infected 	 infecté 
+239	en	fr	 instant hand sanitizer 	 désinfectant pour les mains instantané 
+240	en	fr	 international spread 	 propagation internationale 
+241	en	fr	 international travel 	 voyage international 
+242	en	fr	 isolation period 	 période d'isolement 
+243	en	fr	 isolation room 	 chambre d'isolement 
+244	en	fr	 isolation valve 	 vanne d'isolement 
+245	en	fr	 isolation ward 	 unité d'isolement 
+246	en	fr	 lockdown 	 confinement 
+247	en	fr	 long exposure 	 exposition longue 
+248	en	fr	 major outbreak 	 foyer principal 
+249	en	fr	 mandatory quarantine 	 quarantaine obligatoire 
+250	en	fr	 mass gathering 	 rassemblement de masse 
+251	en	fr	 medicine 	 médicament 
+252	en	fr	 medicines 	 médicaments 
+253	en	fr	 mumps virus 	 virus des oreillons 
+254	en	fr	 n95 	 n95 
+255	en	fr	 n95 mask 	 masque n95 
+256	en	fr	 n95 respirator 	 respirateur n95 
+257	en	fr	 nCoV 	 nCoV 
+258	en	fr	 ncov-2019 	 ncov-2019 
+259	en	fr	 new Coronavirus 	 nouveau coronavirus 
+260	en	fr	 new Coronavirus pneumonia 	 pneumonie liée au nouveau coronavirus 
+261	en	fr	 novel Coronavirus 	 coronavirus nouveau 
+262	en	fr	 novel Coronavirus 	 nouveau coronavirus 
+263	en	fr	 novel Coronavirus infection 	 infection au nouveau coronavirus 
+264	en	fr	 novel Coronavirus outbreak 	 épidémie de nouveau coronavirus 
+265	en	fr	 novel Coronavirus outbreak 	 nouvelle épidémie de coronavirus 
+266	en	fr	 novel Coronavirus pneumonia 	 pneumonie liée au nouveau coronavirus 
+267	en	fr	 ongoing outbreak 	 épidémie en cours 
+268	en	fr	 outbreak 	 épidémie 
+269	en	fr	 outbreak of Coronavirus 	 épidémie de coronavirus 
+270	en	fr	 outbreak of disease 	 épidémie de maladie 
+271	en	fr	 pandemic 	 pandémie 
+272	en	fr	 pandemic influenza 	 grippe pandémique 
+273	en	fr	 pandemic outbreak 	 foyer de pandémie 
+274	en	fr	 pandemic plan 	 plan de pandémie 
+275	en	fr	 pandemic potential 	 potentiel de pandémie 
+276	en	fr	 pneumonia 	 pneumonie 
+277	en	fr	 pneumonia epidemic 	 épidémie de pneumonie 
+278	en	fr	 potential exposure 	 exposition potentielle 
+279	en	fr	 precautions 	 précautions 
+280	en	fr	 prevent virus 	 prévenir le virus 
+281	en	fr	 prolonged exposure 	 exposition prolongée 
+282	en	fr	 public exposure 	 exposition publique 
+283	en	fr	 purell hand sanitizer 	 gel hydroalcoolique purell 
+284	en	fr	 quarantine area 	 région de quarantaine 
+285	en	fr	 quarantine facility 	 installation de quarantaine 
+286	en	fr	 quarantine measures 	 mesures de quarantaine 
+287	en	fr	 quarantine period 	 période de quarantaine 
+288	en	fr	 quarantine room 	 chambre de quarantaine 
+289	en	fr	 quarantine zone 	 zone de quarantaine 
+290	en	fr	 recovered Coronavirus patient 	 patient guéri du coronavirus 
+291	en	fr	 repatriate 	 rapatrier 
+292	en	fr	 repeated exposure 	 exposition répétée 
+293	en	fr	 respiratory syncytial virus 	 virus respiratoire syncytial 
+294	en	fr	 respiratory virus 	 virus respiratoire 
+295	en	fr	 risk exposure 	 exposition à risque 
+296	en	fr	 sanitizing hand sanitizer 	 gel hydroalcoolique désinfectant 
+297	en	fr	 SARS-CoV-2 	 SRAS-CoV-2 
+298	en	fr	 SARS-CoV-2 	 SARS-CoV-2 
+299	en	fr	 self isolation 	 auto-isolement 
+300	en	fr	 self quarantine 	 auto-quarantaine 
+301	en	fr	 severe outbreak 	 épidémie grave 
+302	en	fr	 social distancing 	 distanciation sociale 
+303	en	fr	 social distancing measures 	 mesures de distanciation sociale 
+304	en	fr	 social isolation 	 isolement social 
+305	en	fr	 SOS Alert 	 alerte SOS 
+306	en	fr	 spread of Coronavirus 	 propagation de coronavirus 
+307	en	fr	 spread of virus 	 propagation de virus 
+308	en	fr	 stomach virus 	 virus de l'estomac 
+309	en	fr	 strain of virus 	 souche du virus 
+310	en	fr	 sun exposure 	 exposition au soleil 
+311	en	fr	 the incubation period 	 la période d'incubation 
+312	en	fr	 the novel Coronavirus 	 le coronavirus nouveau 
+313	en	fr	 touching face 	 toucher le visage 
+314	en	fr	 travel advisory 	 recommandations aux voyageurs 
+315	en	fr	 travel ban 	 interdiction de voyager 
+316	en	fr	 travel restrictions 	 restrictions de voyage 
+317	en	fr	 use hand sanitizer 	 utiliser du gel hydroalcoolique 
+318	en	fr	 vaccines 	 vaccins 
+319	en	fr	 viral outbreak 	 épidémie virale 
+320	en	fr	 virtual lockdown 	 confinement virtuel 
+321	en	fr	 virus 	 virus 
+322	en	fr	 virus carrier 	 porteur du virus 
+323	en	fr	 virus infection 	 infection par virus 
+324	en	fr	 virus mask 	 masque contre le virus 
+325	en	fr	 virus outbreak 	 épidémie de virus 
+326	en	fr	 virus outbreak 	 épidémie virale 
+327	en	fr	 virus prevention 	 prévention du virus 
+328	en	fr	 virus protection 	 protection contre le virus 
+329	en	fr	 virus spread 	 propagation du virus 
+330	en	fr	 virus spreads 	 propagations du virus 
+331	en	fr	 virus spreads 	 le virus se propage 
+332	en	fr	 virus strain 	 souche virale 
+333	en	fr	 virus transmission 	 transmission du virus 
+334	en	fr	 wash your hands 	 lavez-vous les mains 
+335	en	fr	 wash your hands 	 se laver les mains 
+336	en	fr	 washing hands 	 lavage des mains 
+337	en	fr	 washing hands 	 se laver les mains 
+338	en	fr	 WHO Confirmed 	 confirmé par l'OMS 
+339	en	fr	 WHO Deaths 	 morts selon l'OMS 
+340	en	fr	 widespread outbreak 	 épidémie de grande ampleur 
+341	en	fr	 zoonotic disease 	 maladie zoonotique 
+342	en	fr	 zoonotic virus 	 virus zoonotique 
+343	en	fr	 1918 flu 	 grippe de 1918 
+344	en	fr	 acute bronchitis 	 bronchite aiguë 
+345	en	fr	 acute respiratory disease 	 maladie respiratoire aiguë 
+346	en	fr	 AIDS 	 SIDA 
+347	en	fr	 airborne droplets 	 gouttelettes en suspension dans l'air 
+348	en	fr	 airway 	 aérien 
+349	en	fr	 alcohol-based 	 à base d'alcool 
+350	en	fr	 alcohol-based hand rub 	 désinfectant pour les mains à base d'alcool 
+351	en	fr	 alveolar disease 	 maladie alvéolaire 
+352	en	fr	 an epidemic 	 une épidémie 
+353	en	fr	 annual flu 	 grippe annuelle 
+354	en	fr	 anti-inflammatory drug 	 médicament anti-inflammatoire 
+355	en	fr	 antiviral drug 	 médicament antiviral 
+356	en	fr	 antiviral treatment 	 traitement antiviral 
+357	en	fr	 assay 	 test 
+358	en	fr	 asymptomatic 	 asymptomatique 
+359	en	fr	 avian flu 	 grippe aviaire 
+360	en	fr	 Black plague 	 peste noire 
+361	en	fr	 blood pressure 	 tension artérielle 
+362	en	fr	 body fluid 	 fluide corporel 
+363	en	fr	 breathing 	 respiration 
+364	en	fr	 Bubonic plague 	 peste bubonique 
+365	en	fr	 C19 	 C19 
+366	en	fr	 cv19 	 cv19 
+367	en	fr	 case fatality rate 	 taux de létalité 
+368	en	fr	 causative agent 	 agent responsable 
+369	en	fr	 chemical disinfection 	 désinfection chimique 
+370	en	fr	 chest x-ray 	 radiographie du thorax 
+371	en	fr	 clinical diagnosis 	 diagnostic clinique 
+372	en	fr	 clinical trial 	 essai clinique 
+373	en	fr	 cvirus 	 virus c 
+374	en	fr	 chronic respiratory disease 	 maladie respiratoire chronique 
+375	en	fr	 common cold 	 rhume 
+376	en	fr	 common flu 	 grippe ordinaire 
+377	en	fr	 communicable disease 	 maladie transmissible 
+378	en	fr	 community transmission 	 transmission communautaire 
+379	en	fr	 compromised immune system 	 système immunitaire affaibli 
+380	en	fr	 contagion 	 contagion 
+381	en	fr	 contagiousness 	 contagiosité 
+382	en	fr	 Corona 	 Corona 
+383	en	fr	 Corona virus 	 coronavirus 
+384	en	fr	 Corona virus epidemic 	 épidémie du coronavirus 
+385	en	fr	 Corona virus outbreak 	 épidémie du coronavirus 
+386	en	fr	 Corona virus scare 	 peur du coronavirus 
+387	en	fr	 Coronavirus scare 	 peur du coronavirus 
+388	en	fr	 cough 	 toux 
+389	en	fr	 cough etiquette 	 règles d'hygiène en cas de toux 
+390	en	fr	 coughing 	 tousser 
+391	en	fr	 COV 19 	 COV 19 
+392	en	fr	 cov19 	 cov19 
+393	en	fr	 COVID 	 COVID 
+394	en	fr	 COVID-19 crisis 	 crise du COVID-19 
+395	en	fr	 COVID-19 epidemic 	 épidémie de COVID-19 
+396	en	fr	 COVID-19 outbreak 	 épidémie de COVID-19 
+397	en	fr	 COVID-19 pandemic 	 pandémie de COVID-19 
+398	en	fr	 COVID 19 	 COVID 19 
+399	en	fr	 current crisis 	 crise actuelle 
+400	en	fr	 current health crisis 	 crise sanitaire actuelle 
+401	en	fr	 current pandemic 	 pandémie actuelle 
+402	en	fr	 CV 	 CV 
+403	en	fr	 CV-19 	 CV-19 
+404	en	fr	 deadly 	 mortel 
+405	en	fr	 deadly virus 	 virus mortel 
+406	en	fr	 death rate 	 taux de mortalité 
+407	en	fr	 death toll 	 nombre de décès 
+408	en	fr	 decontaminate 	 décontaminer 
+409	en	fr	 detectable 	 détectable 
+410	en	fr	 detergent 	 détergent 
+411	en	fr	 difficulty breathing 	 difficulté à respirer 
+412	en	fr	 diabetes 	 diabète 
+413	en	fr	 diagnosable disease 	 maladie diagnostiquable 
+414	en	fr	 diagnostic protocol 	 protocole de diagnostic 
+415	en	fr	 diagnostic testing 	 test de diagnostic 
+416	en	fr	 disease itself 	 la maladie elle-même 
+417	en	fr	 disinfectant 	 désinfectant 
+418	en	fr	 disposable 	 jetable 
+419	en	fr	 droplet transmission 	 transmission par gouttelettes 
+420	en	fr	 dry cough 	 toux sèche 
+421	en	fr	 dry surface contamination 	 contamination de surface sèche 
+422	en	fr	 Ebola 	 Ebola 
+423	en	fr	 effective treatment 	 traitement efficace 
+424	en	fr	 electron microscope 	 microscope électronique 
+425	en	fr	 emergency department 	 service d'urgence 
+426	en	fr	 epidemic curve 	 courbe épidémique 
+427	en	fr	 epidemic peak 	 pic épidémique 
+428	en	fr	 epidemiologist 	 épidémiologiste 
+429	en	fr	 extreme caution 	 extrême prudence 
+430	en	fr	 eye protection 	 protection des yeux 
+431	en	fr	 face masks 	 masques faciaux 
+432	en	fr	 family cluster 	 regroupement familial 
+433	en	fr	 fatality rate 	 taux de mortalité 
+434	en	fr	 fecal contamination 	 contamination fécale 
+435	en	fr	 flatten the infection curve 	 aplatir la courbe d'infection 
+436	en	fr	 flu 	 grippe 
+437	en	fr	 food safety 	 sécurité alimentaire 
+438	en	fr	 formaldehyde 	 formaldéhyde 
+439	en	fr	 gastroenteritis 	 gastro-entérite 
+440	en	fr	 germicide 	 germicide 
+441	en	fr	 global warming 	 réchauffement climatique 
+442	en	fr	 good respiratory hygiene 	 bonne hygiène respiratoire 
+443	en	fr	 Guangdong 	 Guangdong 
+444	en	fr	 H1N1 	 H1N1 
+445	en	fr	 H1N1 virus 	 virus H1N1 
+446	en	fr	 hand disinfectant 	 désinfectant pour les mains 
+447	en	fr	 health care provider 	 prestataire de soins 
+448	en	fr	 health crisis 	 crise sanitaire 
+449	en	fr	 health plan carrier 	 assurance maladie 
+450	en	fr	 health services 	 services de santé 
+451	en	fr	 heart failure 	 insuffisance cardiaque 
+452	en	fr	 high fever 	 forte fièvre 
+453	en	fr	 HIV 	 VIH 
+454	en	fr	 hospitalize 	 hospitaliser 
+455	en	fr	 household bleach 	 eau de Javel domestique 
+456	en	fr	 Hubei 	 Hubei 
+457	en	fr	 hydrogen peroxide 	 peroxyde d'hydrogène 
+458	en	fr	 hygiene 	 hygiène 
+459	en	fr	 immune system 	 système immunitaire 
+460	en	fr	 immunity 	 immunité 
+461	en	fr	 immunocompromised 	 immunodéprimé 
+462	en	fr	 immunologist 	 immunologiste 
+463	en	fr	 incubation 	 incubation 
+464	en	fr	 indirect contact 	 contact indirect 
+465	en	fr	 infect 	 infecter 
+466	en	fr	 infection 	 infection 
+467	en	fr	 infectious 	 infectieux 
+468	en	fr	 infectivity 	 infectivité 
+469	en	fr	 influenza 	 grippe 
+470	en	fr	 initial transmission event 	 événement de transmission initial 
+471	en	fr	 intensive care equipment 	 équipement de soins intensifs 
+472	en	fr	 intermediate host 	 hôte intermédiaire 
+473	en	fr	 intrauterine 	 intra-utérin 
+474	en	fr	 intubation 	 intubation 
+475	en	fr	 isopropanol 	 isopropanol 
+476	en	fr	 laboratory test kit 	 kit de test en laboratoire 
+477	en	fr	 laboratory testing 	 test en laboratoire 
+478	en	fr	 lack of testing 	 manque de test 
+479	en	fr	 lack of tests 	 manque de tests 
+480	en	fr	 latest updates 	 dernières mises à jour 
+481	en	fr	 liver failure 	 insuffisance hépatique 
+482	en	fr	 local public health authority 	 autorité locale de santé publique 
+483	en	fr	 lungs 	 poumons 
+484	en	fr	 masks 	 masques 
+485	en	fr	 measles 	 rougeole 
+486	en	fr	 mechanical ventilation 	 ventilation mécanique 
+487	en	fr	 media coverage 	 couverture médiatique 
+488	en	fr	 medical care 	 soins médicaux 
+489	en	fr	 MERs 	 MERS 
+490	en	fr	 MERs COV 	 MERS CoV 
+491	en	fr	 microbiologist 	 microbiologiste 
+492	en	fr	 mild cough 	 toux bénigne 
+493	en	fr	 mortality rate 	 taux de mortalité 
+494	en	fr	 multi-organ failure 	 défaillance de plusieurs organes 
+495	en	fr	 nasal congestion 	 congestion nasale 
+496	en	fr	 neutral detergent 	 détergent neutre 
+497	en	fr	 new normal 	 nouvelle norme 
+498	en	fr	 novel corona virus 	 nouveau coronavirus 
+499	en	fr	 novel virus 	 nouveau virus 
+500	en	fr	 online medical consultation 	 consultation médicale en ligne 
+501	en	fr	 onset 	 début 
+502	en	fr	 outbreak readiness 	 préparation aux épidémies 
+503	en	fr	 overall case fatality 	 nombre total de décès 
+504	en	fr	 pangolin 	 pangolin 
+505	en	fr	 pathogen 	 pathogène 
+506	en	fr	 pathology 	 pathologie 
+507	en	fr	 patient care equipment 	 équipements de soins aux patients 
+508	en	fr	 personal protective equipment 	 équipement de protection individuelle 
+509	en	fr	 person-to-person transmission 	 transmission de personne à personne 
+510	en	fr	 phlegm 	 mucus 
+511	en	fr	 physical contact 	 contact physique 
+512	en	fr	 plague 	 peste 
+513	en	fr	 pneumonias 	 pneumonies 
+514	en	fr	 positive test 	 test positif 
+515	en	fr	 precaution 	 précaution 
+516	en	fr	 precautionary 	 préventif 
+517	en	fr	 pre-existing condition 	 état préexistant 
+518	en	fr	 preparedness 	 préparation 
+519	en	fr	 prognosis 	 pronostic 
+520	en	fr	 protect myself 	 me protéger 
+521	en	fr	 protect others 	 protéger les autres 
+522	en	fr	 protect yourself 	 protégez-vous 
+523	en	fr	 protective measures 	 mesures de protection 
+524	en	fr	 public health crisis 	 crise de santé publique 
+525	en	fr	 pulmonary tissue damage 	 lésion des tissus pulmonaires 
+526	en	fr	 rapid risk assessment 	 évaluation rapide des risques 
+527	en	fr	 reagent 	 réactif 
+528	en	fr	 regular flu 	 grippe ordinaire 
+529	en	fr	 reinfection 	 réinfection 
+530	en	fr	 renal disease 	 maladie rénale 
+531	en	fr	 renal failure 	 insuffisance rénale 
+532	en	fr	 respirator 	 appareil respiratoire 
+533	en	fr	 respiratory 	 respiratoire 
+534	en	fr	 respiratory disease 	 maladie respiratoire 
+535	en	fr	 respiratory distress 	 détresse respiratoire 
+536	en	fr	 respiratory droplets 	 gouttelettes respiratoires 
+537	en	fr	 respiratory hygiene 	 hygiène respiratoire 
+538	en	fr	 respiratory illness 	 maladie respiratoire 
+539	en	fr	 respiratory syndrome 	 syndrome respiratoire 
+540	en	fr	 respiratory tract disease 	 maladie des voies respiratoires 
+541	en	fr	 restrictions 	 restrictions 
+542	en	fr	 resurge 	 resurgir 
+543	en	fr	 RNA 	 ARN 
+544	en	fr	 rubeola 	 rubéole 
+545	en	fr	 runny nose 	 nez qui coule 
+546	en	fr	 SARS 	 SARS 
+547	en	fr	 SARS-CoV 	 SARS-CoV 
+548	en	fr	 sars-related Coronavirus 	 coronavirus lié au SARS 
+549	en	fr	 seasonal flu 	 grippe saisonnière 
+550	en	fr	 seasonal influenza 	 grippe saisonnière 
+551	en	fr	 secretion 	 sécrétion 
+552	en	fr	 self-quarantine 	 quarantaine spontanée 
+553	en	fr	 sepsis 	 septicémie 
+554	en	fr	 septic shock 	 choc septique 
+555	en	fr	 Severe Acute Respiratory Syndrome 	 syndrome respiratoire aigu sévère 
+556	en	fr	 shortness of breath 	 essoufflement 
+557	en	fr	 sickened 	 malade 
+558	en	fr	 sickness 	 maladie 
+559	en	fr	 sneeze 	 éternuement 
+560	en	fr	 sneezes 	 éternuements 
+561	en	fr	 sneezing 	 éternuer 
+562	en	fr	 sore throat 	 maux de gorge 
+563	en	fr	 Spanish flu 	 grippe espagnole 
+564	en	fr	 specimen collection 	 prélèvement d'échantillons 
+565	en	fr	 sputum 	 crachat 
+566	en	fr	 stigmatisation 	 stigmatisation 
+567	en	fr	 supportive 	 favorable 
+568	en	fr	 surface 	 surface 
+569	en	fr	 surfaces 	 surfaces 
+570	en	fr	 suspected infection 	 infection suspectée 
+571	en	fr	 swab 	 prélèvement 
+572	en	fr	 swine flu 	 grippe porcine 
+573	en	fr	 symptom 	 symptôme 
+574	en	fr	 symptomatic 	 symptomatique 
+575	en	fr	 symptoms 	 symptômes 
+576	en	fr	 targeted disinfection 	 désinfection ciblée 
+577	en	fr	 test kit 	 kit de test 
+578	en	fr	 testing error 	 erreur de test 
+579	en	fr	 tissue damage 	 lésions tissulaires 
+580	en	fr	 TP shortage 	 pénurie de PQ 
+581	en	fr	 toilet paper shortage 	 pénurie de papier toilette 
+582	en	fr	 touch 	 toucher 
+583	en	fr	 touching 	 touchant 
+584	en	fr	 transmissibility 	 transmissibilité 
+585	en	fr	 transmissible 	 transmissible 
+586	en	fr	 transmission potential 	 potentiel de transmission 
+587	en	fr	 typical flu 	 grippe typique 
+588	en	fr	 underlying disease 	 maladie sous-jacente 
+589	en	fr	 updates 	 mises à jour 
+590	en	fr	 vaccine 	 vaccin 
+591	en	fr	 ventilation 	 ventilation 
+592	en	fr	 ventilator 	 ventilateur 
+593	en	fr	 ventilators 	 ventilateurs 
+594	en	fr	 viral infection 	 infection virale 
+595	en	fr	 viral pandemic 	 pandémie virale 
+596	en	fr	 viral pneumonia 	 pneumonie virale 
+597	en	fr	 virtual care 	 soins virtuels 
+598	en	fr	 virulence 	 virulence 
+599	en	fr	 virus itself 	 le virus lui-même 
+600	en	fr	 virus scare 	 peur des virus 
+601	en	fr	 viral transmission 	 transmission virale 
+602	en	fr	 vivid-19 	 vivid-19 
+603	en	fr	 washing ones hands 	 se laver les mains 
+604	en	fr	 white blood cell count 	 numération leucocytaire 
+605	en	fr	 widespread transmission 	 transmission généralisée 
+606	en	fr	 working from home 	 travailler à domicile 
+607	en	fr	 WFH 	 télétravail 
+608	en	fr	 Wuhan 	 Wuhan 
