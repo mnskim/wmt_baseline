@@ -27,7 +27,7 @@ from transformers import MarianConfig, MarianMTModel
 
 from dataset import TranslationDataset
 
-import ipdb
+import pdb
 
 logger = logging.getLogger(__name__)
 
@@ -220,7 +220,7 @@ def main():
     if args.from_scratch:
         config = MarianConfig.from_pretrained(model_args.model_name_or_path)
         model = MarianMTModel(config)
-        #ipdb.set_trace()
+        #pdb.set_trace()
     else:
         model = AutoModelForSeq2SeqLM.from_pretrained(model_args.model_name_or_path)
     """
@@ -304,8 +304,8 @@ def main():
 
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 
-    max_input_length = 128
-    max_target_length = 128
+    max_input_length = args.max_source_length
+    max_target_length = args.max_target_length
     source_lang = "en"
     target_lang = "fr"
 
@@ -326,7 +326,7 @@ def main():
             
     )
 
-    #ipdb.set_trace()
+    #pdb.set_trace()
 
     """
     trainer = Seq2SeqTrainer(

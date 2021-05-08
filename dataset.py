@@ -1,6 +1,6 @@
 import torch
 from torch.utils.data import DataLoader, Dataset
-import ipdb
+import pdb
 
 def preprocess_function(examples, tokenizer):
     inputs = [prefix + ex[source_lang] for ex in examples["translation"]]
@@ -35,7 +35,7 @@ class TranslationDataset(Dataset):
             #output_ids = self.tokenizer.encode(tgt, truncation=True, max_length=self.max_output_len)
             labels = self.tokenizer(tgt, max_length=self.max_output_length, truncation=True)
 
-        #ipdb.set_trace()
+        #pdb.set_trace()
         model_inputs["labels"] = labels["input_ids"]
 
         return model_inputs
