@@ -213,6 +213,10 @@ def main():
     test_data = [line.rstrip('\n').split('\t') for line in open(Path(data_args.data_path) / 'test.tsv', 'r').readlines()]
 
 
+    if data_args.max_train_samples is not None:
+        # Recommended to use a pre-shuffled train set
+        train_data = train_data[:data_args.max_train_samples]
+
     """
     tokenizer = AutoTokenizer.from_pretrained(model_args.model_name_or_path)
 
