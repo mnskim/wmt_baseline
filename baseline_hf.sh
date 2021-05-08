@@ -14,7 +14,7 @@ eval_batch_size=64
 
 n_epochs=10
 
-CUDA_VISIBLE_DEVICES=2 python baseline_hf.py --model_name_or_path $model_name \
+ python baseline_hf.py --model_name_or_path $model_name \
                                              --output_dir $output_dir \
                                              --data_path $data_path \
                                              --do_train \
