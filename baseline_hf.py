@@ -27,7 +27,7 @@ from transformers import MarianConfig, MarianMTModel
 
 from dataset import TranslationDataset
 
-import pdb
+import ipdb
 
 logger = logging.getLogger(__name__)
 
@@ -224,7 +224,7 @@ def main():
     if args.from_scratch:
         config = MarianConfig.from_pretrained(model_args.model_name_or_path)
         model = MarianMTModel(config)
-        #pdb.set_trace()
+        #ipdb.set_trace()
     else:
         model = AutoModelForSeq2SeqLM.from_pretrained(model_args.model_name_or_path)
     """
@@ -330,7 +330,7 @@ def main():
             
     )
 
-    #pdb.set_trace()
+    #ipdb.set_trace()
 
     """
     trainer = Seq2SeqTrainer(
@@ -398,6 +398,8 @@ def main():
 
         trainer.log_metrics("predict", metrics)
         trainer.save_metrics("predict", metrics)
+
+        #ipdb.set_trace()
 
         if trainer.is_world_process_zero():
             if training_args.predict_with_generate:

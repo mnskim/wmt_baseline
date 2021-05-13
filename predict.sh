@@ -1,4 +1,5 @@
-model_name=Helsinki-NLP/opus-mt-en-fr
+#model_name=Helsinki-NLP/opus-mt-en-fr
+model_name=../use_terms/checkpoint-2099
 
 # Use terms
 data_path='data_2_terminology'
@@ -18,8 +19,6 @@ n_epochs=10
 CUDA_VISIBLE_DEVICES=2 python baseline_hf.py --model_name_or_path $model_name \
                                              --output_dir $output_dir \
                                              --data_path $data_path \
-                                             --do_train \
-                                             --do_eval \
                                              --do_predict \
                                              --load_best_model_at_end \
                                              --metric_for_best_model 'bleu' \
