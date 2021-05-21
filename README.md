@@ -1,3 +1,13 @@
+# *Important Notification About Data Bug* #
+
+* In the initial release, there was a bug in <code>data_2_terminology/train.tsv</code>. If you used this file, ***you must redownload the fixed file***, as the old file did not properly include all terminologies.
+
+* I've added <code>diffcheck.py</code> so you can check that the only difference between the <code>data_2/train.tsv</code> and <code>data_2_terminology/train.tsv</code> is the 608 terminology pairs.
+
+* The baseline results for using terminology has also been updated, but the differences from before are minor.
+
+Sorry about the confusion!!
+
 # Baseline for WMT21 Machine Translation using Terminologies Task
 
 This is a baseline for the [WMT21 Machine Translation using Terminologies](http://www.statmt.org/wmt21/terminology-task.html) task. The task invites participants to explore methods to incorporate terminologies into either the training or the inference process, in order to improve both the accuracy and consistency of MT systems on a new domain. 
