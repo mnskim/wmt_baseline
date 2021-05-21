@@ -64,14 +64,14 @@ During training, we evaluate on the dev set of TICO-19, and the final evaluation
 | Training Epochs  | Use terminology | Eval set | BLEU |
 | ------------- | ------------- | ------------- | ------------- |
 | 3 epochs  | No  | TICO-19 Dev  | 40.0991  |
-| 3 epochs  | Yes  | TICO-19 Dev  | **40.262**  |
+| 3 epochs  | Yes  | TICO-19 Dev  | **40.3334**  |
 | 3 epochs  | No  | TICO-19 Test  | 37.5342  |
-| 3 epochs  | Yes  | TICO-19 Test  | **37.6987**  |
+| 3 epochs  | Yes  | TICO-19 Test  | **37.6491**  |
 ||||
 | 10 epochs  | No  | TICO-19 Dev  | 39.9382  |
-| 10 epochs  | Yes  | TICO-19 Dev  | **40.1901**  |
+| 10 epochs  | Yes  | TICO-19 Dev  | **40.0829**  |
 | 10 epochs  | No  | TICO-19 Test  | 37.4869  |
-| 10 epochs  | Yes  | TICO-19 Test  | **37.5637**  |
+| 10 epochs  | Yes  | TICO-19 Test  | **37.579**  |
 
 *Note that due to the small size of the data, these results can vary depending on various settings (hyperparameters, training epochs, etc.). However, generally the results should be better when using terminology than not.*
 
